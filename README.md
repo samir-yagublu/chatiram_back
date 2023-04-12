@@ -1,1 +1,6 @@
-By using npm start command in vs code you can run this code
+npm start
+
+Runs the app in the development mode.
+You can modify 
+Open http://localhost:8800 to view it in your browser.
+
